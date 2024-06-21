@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
+<br>
+
 
 
 <div align=center>
@@ -57,7 +59,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoungjunyoon&show_icons=true&theme=radical)
 
 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoungjunyoon&layout=compact)](https://github.com/yeoungjunyoon/github-readme-stats)
+
 
 
