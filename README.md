@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoungjunyoon_icons=true&theme=dracula) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoungjunyoon=compact&theme=dracula&langs_count=6)](https://github.com/yeoungjunyoon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/yeoungjunyoon)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br><br>
-![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=wave&height=180&section=footer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/yeoungjunyoon&layout=compact)](https://github.com/https://github.com/yeoungjunyoon/github-readme-stats)
+
