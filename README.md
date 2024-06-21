@@ -49,3 +49,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
+
+
+
+<div align=center>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoungjunyoon_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoungjunyoon=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<br><br>
+![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=wave&height=180&section=footer)
