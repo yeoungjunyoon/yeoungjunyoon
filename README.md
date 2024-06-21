@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/yeoungjunyoon/yeoungjunyoon&layout=compact&theme=dark)
-
-
 ✨ FRONT-END Skills ✨ 
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
