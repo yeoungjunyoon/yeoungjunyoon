@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![header](https://HELLO-yeoungjunyoon.GIRHUB.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=capsule%20render&fontSize=90)
+![header](https://yeoungjunyoon.GIRHUB.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=capsule%20render&fontSize=90)
 
 
 <!--
