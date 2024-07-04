@@ -55,9 +55,8 @@
  <h3 align="center">   📧: My Email </h3>
  <div align="center">
 <a href="mailto:gkak1563@gmail.com">
-  <img src="https://img.shields.io/badge/gkak1563@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-sp
+<img
+src="https://img.shields.io/badge/gkak1563@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
  
 </div>
 
