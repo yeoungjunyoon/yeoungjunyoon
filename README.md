@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=YeoungJunYoon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-
 # My GitHub Profile
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=YeoungJunYoon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ## Welcome to My GitHub Page!
 
@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 -->
 
 
-✨ FRONT-END Skills ✨ 
+✨ FRONT-END Skills ✨  
+<h3 align="center"> ⛏ Tools </h3>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
