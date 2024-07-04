@@ -7,7 +7,7 @@
 
 <h3 align="center"> ⛏ Tools </h3>
 
- ⛏ FRONT-END Skills  
+ ♥️ FRONT-END Skills  
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -18,7 +18,7 @@
 
 
 
-✨ BACK-END Skills ✨ 
+🥚 BACK-END Skills 
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -28,7 +28,7 @@
 
 
 
-✨  COWORK TOOL  ✨ 
+🍽️  COWORK TOOL  
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
