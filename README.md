@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ### Contact
 - Email: dudwnsv123@naver.com
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yeoungjunyoon)
+-  NAVER: [My NAVER Profile]https://www.naver.com//in/yeoungjunyoon)
 
 
 
