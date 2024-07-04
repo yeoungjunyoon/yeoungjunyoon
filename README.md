@@ -6,13 +6,6 @@
 
 ## Welcome to My GitHub Page!
 
-### About Me
-I'm passionate about coding and open-source projects.
-
-
-
-
-
 <!--
 **yeoungjunyoon/yeoungjunyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
