@@ -44,7 +44,7 @@
 
 <h3 align="center">  :pencil2: Study log </h3>
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoungjunyoon\&hide=contribs,issues)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoungjunyoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
