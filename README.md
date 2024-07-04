@@ -8,7 +8,7 @@
 
 
 <h3 align="center"> ⛏ Tools </h3>
-<br><br>
+<br>
 
  ♥️ FRONT-END Skills  
 
@@ -39,9 +39,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
-<br><br>
-
-
+<br>
 
 <div align=center>
 
@@ -68,6 +66,3 @@ src="https://img.shields.io/badge/gkak1563@gmail.com-D14836?style=for-the-badge&
 </div>
 
 </div>
-
-
-
