@@ -1,12 +1,14 @@
 <div align="center">
 
 # ✨ Welecome to My GitHub Profile ! ✨
+<br>
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=YeoungJunYoon%20&fontSize=40&animation=twinkling)
+<br>
 
 
 <h3 align="center"> ⛏ Tools </h3>
-<br><br><br>
+<br><br>
 
  ♥️ FRONT-END Skills  
 
