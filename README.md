@@ -1,7 +1,17 @@
 <div align="center">
 
 
-![header](https://yeoungjunyoon.GIRHUB.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=capsule%20render&fontSize=90)
+# My GitHub Profile
+
+## Welcome to My GitHub Page!
+
+### About Me
+I'm passionate about coding and open-source projects.
+
+### Contact
+- Email: dudwnsv123@naver.com
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yeoungjunyoon)
+
 
 
 <!--
