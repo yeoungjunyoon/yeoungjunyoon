@@ -2,7 +2,7 @@
 
 # " Welecome to My GitHub Profile ! "
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welecome to My GitHub Profile ! &fontSize=90" />
+![header] (https://capsule-render.vercel.app/api?type=cylinder&color=0000ff&height=130&section=header&text=YeoungJunYoon&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 <!--
 **yeoungjunyoon/yeoungjunyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
