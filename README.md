@@ -54,9 +54,9 @@
 <div> 
  <h3 align="center">   📧: My Email </h3>
  <div align="center">
- <a href="mailto:cmg981548@gmail.com">
+ <a href="mailto:dudwnsv123@naver.com">
     <img
-      src="https://img.shields.io/badge/cmg981548@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/dudwnsv123@naver.com-4CAF50?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
