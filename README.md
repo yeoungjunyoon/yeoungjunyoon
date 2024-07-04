@@ -2,8 +2,7 @@
 
 # ✨ Welecome to My GitHub Profile ! ✨
 
-![header] (https://capsule-render.vercel.app/api?type=cylinder&color=0000ff&height=130&section=header&text=YeoungJunYoon&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40)
-
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=I'll%20keep%20pushing%20forward%20&fontSize=40&animation=twinkling)
 
 
 <h3 align="center"> ⛏ Tools </h3>
@@ -45,7 +44,7 @@
 
 <h3 align="center">  :pencil2: Study log </h3>
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoungjunyoon&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=contribs,issues)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoungjunyoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
