@@ -1,5 +1,6 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=YeoungJunYoon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 # My GitHub Profile
 
@@ -8,9 +9,7 @@
 ### About Me
 I'm passionate about coding and open-source projects.
 
-### Contact
-- Email: dudwnsv123@naver.com
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yeoungjunyoon)
+
 
 
 
@@ -69,6 +68,11 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoungjunyoon)
+
+
+### Contact
+- Email: dudwnsv123@naver.com
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yeoungjunyoon)
 
 
 
