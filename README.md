@@ -2,7 +2,7 @@
 
 # ✨ Welecome to My GitHub Profile ! ✨
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=YeoungJunYoon%20pushing%20forward%20&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=YeoungJunYoon%20&fontSize=40&animation=twinkling)
 
 
 <h3 align="center"> ⛏ Tools </h3>
