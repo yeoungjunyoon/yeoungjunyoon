@@ -57,7 +57,9 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-  
+
+<h3 align="center">  :pencil2: Study log </h3>
+   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoungjunyoon&show_icons=true&theme=radical)
 
 
